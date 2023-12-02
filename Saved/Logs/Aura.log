@@ -1137,3 +1137,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.02-10.51.31:015][893]LogSlate: Window 'Project Settings' being destroyed
 [2023.12.02-10.51.44:552][368]LogSlate: Window 'Editor Preferences' being destroyed
 [2023.12.02-10.51.44:563][368]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.12.02-11.36.45:580][495]LogDerivedDataCache: C:/Users/ysmny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.270 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 397 files in 731 folders with total size 83 MiB.
